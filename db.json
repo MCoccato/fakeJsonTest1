@@ -1,0 +1,77 @@
+{
+  "ecosistems": {
+    "artic": {
+      "Artico1": {
+        "nome": "Islanda",
+        "cubemap": "url",
+        "minimap": false,
+        "pois": [
+          {
+            "nome": "nome 1",
+            "type": "video",
+            "description": "",
+            "content": "url al contenuto o contenuto",
+            "position": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "nome": "nome 2 ",
+            "type": "text",
+            "description": "",
+            "content": "url al contenuto o contenuto",
+            "position": {
+              "x": 12,
+              "y": -12
+            }
+          }
+        ]
+      },
+      "Artico2": {
+        "nome": "Groelandia",
+        "cubemap": "url",
+        "minimap": "mapId",
+        "pois": [
+          {
+            "nome": "nome 1",
+            "type": "video",
+            "description": "",
+            "content": "url al contenuto o contenuto",
+            "position": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "nome": "nome 2 ",
+            "type": "text",
+            "description": "",
+            "content": "url al contenuto o contenuto",
+            "position": {
+              "x": 12,
+              "y": -12
+            }
+          }
+        ]
+      }
+    },
+    "desert": {},
+    "forest": {}
+  },
+  "maps": {
+    "map_id": {
+      "texture": "url_to_texture",
+      "ecosistemKey": "artico",
+      "pois": [
+        {
+          "domeKey": "Artico1",
+          "mapPosition": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      ]
+    }
+  }
+}
