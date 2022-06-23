@@ -17,6 +17,36 @@
             }
           },
           {
+            "nome": "nome 3",
+            "type": "image",
+            "description": "",
+            "content": "url al contenuto o contenuto",
+            "position": {
+              "x": -12,
+              "y": 12
+            }
+          },
+          {
+            "nome": "nome 4",
+            "type": "audio",
+            "description": "",
+            "content": "url al contenuto o contenuto",
+            "position": {
+              "x": 12,
+              "y": 12
+            }
+          },
+          {
+            "nome": "nome 5",
+            "type": "toLimbo",
+            "description": "",
+            "content": "url al contenuto o contenuto",
+            "position": {
+              "x": -12,
+              "y": -12
+            }
+          },
+          {
             "nome": "nome 2 ",
             "type": "text",
             "description": "",
@@ -29,7 +59,34 @@
         ]
       },
       "Artico2": {
-        "nome": "Groelandia",
+        "nome": "Groelandia 1",
+        "cubemap": "url",
+        "minimap": "mapId",
+        "pois": [
+          {
+            "nome": "nome 1",
+            "type": "video",
+            "description": "",
+            "content": "url al contenuto o contenuto",
+            "position": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          {
+            "nome": "nome 2 ",
+            "type": "text",
+            "description": "",
+            "content": "url al contenuto o contenuto",
+            "position": {
+              "x": 12,
+              "y": -12
+            }
+          }
+        ]
+      },
+      "Artico3": {
+        "nome": "Groelandia 2",
         "cubemap": "url",
         "minimap": "mapId",
         "pois": [
@@ -60,15 +117,22 @@
     "forest": {}
   },
   "maps": {
-    "map_id": {
+    "mapId": {
       "texture": "url_to_texture",
       "ecosistemKey": "artico",
       "pois": [
         {
-          "domeKey": "Artico1",
+          "domeKey": "Artico2",
           "mapPosition": {
             "x": 0,
             "y": 0
+          }
+        },
+        {
+          "domeKey": "Artico3",
+          "mapPosition": {
+            "x": 0.4,
+            "y": 0.4
           }
         }
       ]
