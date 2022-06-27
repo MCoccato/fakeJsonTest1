@@ -3,7 +3,7 @@
     "artic": {
       "Artico1": {
         "nome": "Islanda",
-        "cubemap": "url",
+        "cubemap": "denoiseledafinal/denoiseledafinalOut2",
         "minimap": false,
         "pois": [
           {
@@ -60,7 +60,7 @@
       },
       "Artico2": {
         "nome": "Groelandia 1",
-        "cubemap": "url",
+        "cubemap": "denoiseledafinal/denoiseledafinalOut2",
         "minimap": "mapId",
         "pois": [
           {
@@ -87,7 +87,7 @@
       },
       "Artico3": {
         "nome": "Groelandia 2",
-        "cubemap": "url",
+        "cubemap": "denoiseledafinal/denoiseledafinalOut2",
         "minimap": "mapId",
         "pois": [
           {
