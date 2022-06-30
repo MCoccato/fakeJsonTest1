@@ -3,7 +3,7 @@
     "artic": {
       "Artico1": {
         "name": "Islanda",
-        "cubemap": "denoiseledafinal/denoiseledafinalOut2",
+        "cubemap": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2",
         "minimap": false,
         "pois": [
           {
