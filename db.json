@@ -2,12 +2,12 @@
   "ecosistems": {
     "artic": {
       "Artico1": {
-        "nome": "Islanda",
+        "name": "Islanda",
         "cubemap": "denoiseledafinal/denoiseledafinalOut2",
         "minimap": false,
         "pois": [
           {
-            "nome": "nome 1",
+            "name": "name 1",
             "type": "video",
             "description": "",
             "content": "url al contenuto o contenuto",
@@ -17,7 +17,7 @@
             }
           },
           {
-            "nome": "nome 3",
+            "name": "name 3",
             "type": "image",
             "description": "",
             "content": "url al contenuto o contenuto",
@@ -27,7 +27,7 @@
             }
           },
           {
-            "nome": "nome 4",
+            "name": "name 4",
             "type": "audio",
             "description": "",
             "content": "url al contenuto o contenuto",
@@ -37,7 +37,7 @@
             }
           },
           {
-            "nome": "nome 5",
+            "name": "name 5",
             "type": "toLimbo",
             "description": "",
             "content": "url al contenuto o contenuto",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "nome": "nome 2 ",
+            "name": "name 2 ",
             "type": "text",
             "description": "",
             "content": "url al contenuto o contenuto",
@@ -59,12 +59,12 @@
         ]
       },
       "Artico2": {
-        "nome": "Groelandia 1",
+        "name": "Groelandia 1",
         "cubemap": "denoiseledafinal/denoiseledafinalOut2",
         "minimap": "mapId",
         "pois": [
           {
-            "nome": "nome 1",
+            "name": "name 1",
             "type": "video",
             "description": "",
             "content": "url al contenuto o contenuto",
@@ -74,7 +74,7 @@
             }
           },
           {
-            "nome": "nome 2 ",
+            "name": "name 2 ",
             "type": "text",
             "description": "",
             "content": "url al contenuto o contenuto",
@@ -86,12 +86,12 @@
         ]
       },
       "Artico3": {
-        "nome": "Groelandia 2",
+        "name": "Groelandia 2",
         "cubemap": "denoiseledafinal/denoiseledafinalOut2",
         "minimap": "mapId",
         "pois": [
           {
-            "nome": "nome 1",
+            "name": "name 1",
             "type": "video",
             "description": "",
             "content": "url al contenuto o contenuto",
@@ -101,7 +101,7 @@
             }
           },
           {
-            "nome": "nome 2 ",
+            "name": "name 2 ",
             "type": "text",
             "description": "",
             "content": "url al contenuto o contenuto",
