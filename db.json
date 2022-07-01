@@ -60,7 +60,7 @@
       },
       "Artico2": {
         "name": "Groelandia 1",
-        "cubemap": "denoiseledafinal/denoiseledafinalOut2",
+        "cubemap": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2",
         "minimap": "mapId",
         "pois": [
           {
@@ -87,7 +87,7 @@
       },
       "Artico3": {
         "name": "Groelandia 2",
-        "cubemap": "denoiseledafinal/denoiseledafinalOut2",
+        "cubemap": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2",
         "minimap": "mapId",
         "pois": [
           {
