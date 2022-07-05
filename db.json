@@ -117,22 +117,35 @@
     "forest": {}
   },
   "maps": {
-    "mapId": {
-      "texture": "url_to_texture",
-      "ecosistemKey": "artico",
+    "minimapArtico1": {
+      "texture": "http://localhost:8080/bg_test.png",
+      "ecosistemKey": "artic",
+      "pois": [
+        {
+          "domeKey": "Artico1",
+          "mapPosition": {
+            "x": 0.23,
+            "y": 0.51
+          }
+        },
+        {
+          "domeKey": "Artico2",
+          "mapPosition": {
+            "x": 0.42,
+            "y": 0.15
+          }
+        }
+      ]
+    },
+    "minimapArtico2": {
+      "texture": "http://localhost:8080/bg_test.png",
+      "ecosistemKey": "artic",
       "pois": [
         {
           "domeKey": "Artico2",
           "mapPosition": {
-            "x": 0,
-            "y": 0
-          }
-        },
-        {
-          "domeKey": "Artico3",
-          "mapPosition": {
-            "x": 0.4,
-            "y": 0.4
+            "x": 0.233,
+            "y": 0.511
           }
         }
       ]
