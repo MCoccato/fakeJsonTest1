@@ -3,8 +3,15 @@
     "artic": {
       "Artico1": {
         "name": "Islanda",
-        "cubemap": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2",
-        "minimap": false,
+        "cubemap": {
+          "px": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_px.jpg",
+          "py": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_py.jpg",
+          "pz": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_pz.jpg",
+          "nx": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_nx.jpg",
+          "ny": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_ny.jpg",
+          "nz": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_nz.jpg"
+        },
+        "minimap": "minimapArtico1",
         "pois": [
           {
             "name": "name 1",
@@ -60,8 +67,15 @@
       },
       "Artico2": {
         "name": "Groelandia 1",
-        "cubemap": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2",
-        "minimap": "mapId",
+        "cubemap": {
+          "px": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_px.jpg",
+          "py": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_py.jpg",
+          "pz": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_pz.jpg",
+          "nx": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_nx.jpg",
+          "ny": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_ny.jpg",
+          "nz": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_nz.jpg"
+        },
+        "minimap": "minimapArtico2",
         "pois": [
           {
             "name": "name 1",
@@ -87,7 +101,14 @@
       },
       "Artico3": {
         "name": "Groelandia 2",
-        "cubemap": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2",
+        "cubemap": {
+          "px": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_px.jpg",
+          "py": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_py.jpg",
+          "pz": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_pz.jpg",
+          "nx": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_nx.jpg",
+          "ny": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_ny.jpg",
+          "nz": "assets/textures/cubemaps/high/denoiseledafinal/denoiseledafinalOut2_nz.jpg"
+        },
         "minimap": "mapId",
         "pois": [
           {
